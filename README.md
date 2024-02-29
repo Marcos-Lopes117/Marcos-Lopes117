@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  +😎 Perfil DIO: <a href="#" title="DigitalInovationOne" link="https://www.dio.me/users/m_vd2prog"> **Marcos Lopes** </a>
+  +😎 Perfil DIO: <a href="https://www.dio.me/users/m_vd2prog" title="DigitalInovationOne">Marcos Lopes</a>
 </p>
 
 <p align="left">
