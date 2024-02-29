@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  ✔ Linguagens: **JVS, PHP, C++, C, Python.**
+  ✔ Linguagens: <strong>JVS, PHP, C++, C, Python.</strong>
 </p>
 
 <p align="left">
