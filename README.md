@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Me chamo Marcos, sou especialista em gestão de projetos e <strong>desenvolvedor<strong> por gosto.
+  Me chamo Marcos, sou especialista em gestão de projetos e <strong>desenvolvedor</strong> por gosto.
   Atualmente estou estudando Microsoft Azure AI Fundamentals, e anseio por conquistar uma vaga em desenvolvimento.
 </p>
 
