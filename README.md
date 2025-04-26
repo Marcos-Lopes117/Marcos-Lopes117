@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Me chamo Marcos, sou especialista em gestão de projetos e <strong>desenvolvedor</strong> back end.
-  Atualmente estou estudando Microsoft Azure AI Fundamentals, escrevendo cursos de programação e anseio por conquistar uma vaga em desenvolvimento.
+  Me chamo Marcos, sou especialista em gestão de projetos e <strong>desenvolvedor</strong> Full stack Jr. 
+  Atualmente estou cursando a trilha de desenvolvimento full stack Jr do +prati, desenvolvendo scripts e anseio por conquistar uma vaga em desenvolvimento.
 </p>
 
 <p align="left">
