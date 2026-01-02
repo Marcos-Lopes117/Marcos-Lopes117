@@ -35,12 +35,12 @@
 - **O Caminho**  
   App cristão com leitura bíblica, devocional, diário espiritual, mural de orações e testemunhos.  
   🔧 Flutter · Firebase  
-  🔗 https://github.com/SEU_USUARIO/o-caminho
+  🔗 https://github.com/Marcos-Lopes117/o-caminho
 
 - **Carteira Familiar**  
   Aplicação para gestão financeira familiar, focada em organização e controle de gastos.  
   🔧 (tecnologias usadas)  
-  🔗 https://github.com/SEU_USUARIO/carteira-familiar
+  🔗 https://github.com/Marcos-Lopes117/Carteira-familiar
 
 
 <p align="left">
@@ -50,9 +50,9 @@
 - **Exercícios Full Stack +Prati**  
   Repositório com exercícios práticos de HTML, CSS, JavaScript e lógica de programação.  
   🔧 HTML · CSS · JavaScript  
-  🔗 https://github.com/SEU_USUARIO/exercicios-maisprati
+  🔗 https://github.com/Marcos-Lopes117/exercicios-maisprati
 
 - **Estudos CSS Grid**  
   Prática e experimentos com CSS Grid para layout responsivo.  
   🔧 HTML · CSS  
-  🔗 https://github.com/SEU_USUARIO/css-grid-estudos
+  🔗 https://github.com/Marcos-Lopes117/css-grid-estudos
